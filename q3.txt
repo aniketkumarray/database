@@ -43,4 +43,4 @@ Publisher_ID: 10, Name: AK Gupta, Street_Adress: Vijender Nagar, Suite_Number: 5
 Publisher_ID: 11, Name: Praful Kumar, Street_Adress: Prasang Vihar, Suite_Number: 53, Zip_Code_ID: 4
 Publisher_ID: 12, Name: VK Garg, Street_Adress: Old Warriors Colony, Suite_Number: 51, Zip_Code_ID: 2
 Publisher_ID: 13, Name: Rahul Gupta, Street_Adress: Ramvilas Vihar, Suite_Number: 54, Zip_Code_ID: 1
-Publisher_ID: 14, Name: Riya Sen, Street_Adress: Sharol Bagh, Suite_Number: 57, Zip_Code_ID: 5
+Publisher_ID: 14, Name: Riya Sen, Street_Adress: Karol Enclave, Suite_Number: 57, Zip_Code_ID: 5
