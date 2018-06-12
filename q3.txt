@@ -10,7 +10,7 @@ try:
         print('Publisher_ID: {}, Name: {}, Street_Adress: {}, Suite_Number: {}, Zip_Code_ID: {}' \
               .format(row[0], row[1], row[2], row[3], row[4]))
 
-    query2 = "Update Publishers set Street_Address='Karol Enclave' where Publisher_ID=116"
+    query2 = "Update Publishers set Street_Address='Karol Enclave' where Publisher_ID=14"
     cursor.execute(query2)
     con.commit()
 
